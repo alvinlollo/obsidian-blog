@@ -22,7 +22,7 @@ layout: docs
 This way is suitable if you don't want to go back and forth
 
 1. Open the workbook you would like to be the link **destination.** ![Workbook Select menu](WorkBookSelectMenu.png|496)
-2. In the top address bar copy the workbook id e.g: ``#gid=XXXXXXXXXXXXX``. ![URL Bar with `#gid=828475600 selected](UrlBarGID.png)
+2. In the top address bar copy the workbook id e.g: ``#gid=XXXXXXXXXXXXX``. ![URL Bar with `#gid=828475600` selected](UrlBarGID.png)
 3. Select the cell you want to add a link with (Double click & CTRL + A)
 4. Click the **Insert link** button in the top ribbon (CTRL + K) ![[LinkIcon.png]]
 5. After the link menu pops up paste the ``#gid=XXXXXXXXX`` into the link URL and apply it.
