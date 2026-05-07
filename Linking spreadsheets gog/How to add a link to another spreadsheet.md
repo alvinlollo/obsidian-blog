@@ -13,8 +13,8 @@ layout: docs
 
 ## Easy way
 1. Select the cell you want to add a link with (Double click & CTRL + A)
-2. Click the **Insert link** button in the top ribbon (CTRL + K)  ![](images/WorkBookSelectMenu.png)
-3. After the link menu pops up click the **Sheets and named ranges** button. ![](images/LinkMenuHoverWorkbook.png)
+2. Click the **Insert link** button in the top ribbon (CTRL + K)  ![Workbook Select Menu](WorkBookSelectMenu.png)
+3. After the link menu pops up click the **Sheets and named ranges** button. ![Link menu 2nd page](images/LinkMenuHoverWorkbook.png)
 4. After the menu changes select what workbook you would like to link. ![[LinkMenuWorkbook.png]]
 
 ## Hard way
