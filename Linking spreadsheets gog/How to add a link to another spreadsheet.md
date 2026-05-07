@@ -13,7 +13,7 @@ layout: docs
 
 ## Easy way
 1. Select the cell you want to add a link with (Double click & CTRL + A)
-2. Click the **Insert link** button in the top ribbon (CTRL + K)  ![Workbook Select Menu](WorkBookSelectMenu.png)
+2. Click the **Insert link** button in the top ribbon (CTRL + K) ![Workbook Select Menu](WorkBookSelectMenu.png)
 3. After the link menu pops up click the **Sheets and named ranges** button. ![HyprLink menu 1st page](LinkMenuHoverWorkbook.png)
 4. After the menu changes select what workbook you would like to link. ![HyprLink Menu 2nd page](LinkMenuWorkbook.png)
 
@@ -24,6 +24,6 @@ This way is suitable if you don't want to go back and forth
 1. Open the workbook you would like to be the link **destination.** ![Workbook Select menu](WorkBookSelectMenu.png|496)
 2. In the top address bar copy the workbook id e.g: ``#gid=XXXXXXXXXXXXX``. ![URL Bar with `#gid=828475600` selected](UrlBarGID.png)
 3. Select the cell you want to add a link with (Double click & CTRL + A)
-4. Click the **Insert link** button in the top ribbon (CTRL + K) ![[LinkIcon.png]]
+4. Click the **Insert link** button in the top ribbon (CTRL + K) ![Hyperlink button in the ribbon](LinkIcon.png)
 5. After the link menu pops up paste the ``#gid=XXXXXXXXX`` into the link URL and apply it.
-![[GID_in_url_popup.png]]
+![#gid=82847](GID_in_url_popup.png)
