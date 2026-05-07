@@ -26,4 +26,4 @@ This way is suitable if you don't want to go back and forth
 3. Select the cell you want to add a link with (Double click & CTRL + A)
 4. Click the **Insert link** button in the top ribbon (CTRL + K) ![Hyperlink button in the ribbon](LinkIcon.png)
 5. After the link menu pops up paste the ``#gid=XXXXXXXXX`` into the link URL and apply it.
-![#gid=82847](GID_in_url_popup.png)
+![`#gid=828475600` in the link menu](GID_in_url_popup.png)
