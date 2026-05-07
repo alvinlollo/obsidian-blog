@@ -10,12 +10,11 @@ tags:
 layout: docs
 ---
 {{< alert >}} This cannot be done on mobile as the link feature is not present. {{< /alert >}}
-
 ## Easy way
 1. Select the cell you want to add a link with (Double click & CTRL + A)
 2. Click the **Insert link** button in the top ribbon (CTRL + K) ![Workbook Select Menu](WorkBookSelectMenu.png)
-3. After the link menu pops up click the **Sheets and named ranges** button. ![HyprLink menu 1st page](LinkMenuHoverWorkbook.png)
-4. After the menu changes select what workbook you would like to link. ![HyprLink Menu 2nd page](LinkMenuWorkbook.png)
+3. After the link menu pops up click the **Sheets and named ranges** button. ![Hyperlink menu 1st page](LinkMenuHoverWorkbook.png)
+4. After the menu changes select what workbook you would like to link. ![Hyperlink Menu 2nd page](LinkMenuWorkbook.png)
 
 ## Hard way
 
