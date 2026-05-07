@@ -8,7 +8,6 @@ tags:
   - Tutorials
   - Google
 layout: docs
-tagsobsidian://open?vault=Personal&file=1.%20Projects%2FBlog%2FHow%20to%20add%20a%20link%20to%20another%20spreadsheet:
 ---
 {{< alert >}} This cannot be done on mobile as the link feature is not present. {{< /alert >}}
 ## Easy way
