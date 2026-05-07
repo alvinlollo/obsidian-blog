@@ -18,7 +18,6 @@ tagsobsidian://open?vault=Personal&file=1.%20Projects%2FBlog%2FHow%20to%20add%20
 4. After the menu changes select what workbook you would like to link. ![Hyperlink Menu 2nd page](LinkMenuWorkbook.png)
 
 ## Hard way
-
 This way is suitable if you don't want to go back and forth
 
 1. Open the workbook you would like to be the link **destination.** ![Workbook Select menu](WorkBookSelectMenu.png|496)
