@@ -1,12 +1,14 @@
 ---
-title: Childrens Online Privacy code analysis
+title: Children's Online Privacy code analysis
 author: Alvin Vilaythong
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-11
 tags:
   - Privacy
   - Discursive
   - Surveillance
+date: 2026-05-11
+tagsobsidian://open?vault=Personal&file=1.%20Projects%2FBlog%2FHow%20to%20add%20a%20link%20to%20another%20spreadsheet:
 ---
 Australia is going be releasing law to "protect" children online by introducing the social media ban on December 2025. Now a new Exposure Draft has been proposed to the whole of Australia named the Children's Online Privacy Code which is attempted to replicate the UK's Appropriate Design Code. The OAIC states that the code was created to help parents and children manage privacy to the child's best interests. But perhaps this is a Trojan horse disguised as mass surveillance? |
 
