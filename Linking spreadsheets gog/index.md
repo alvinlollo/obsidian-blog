@@ -9,7 +9,8 @@ tags:
   - Google
 layout: docs
 ---
-{{< alert >}} This cannot be done on mobile as the link feature is not present. {{< /alert >}}
+> [!warning]
+> This cannot be done on mobile as the link feature is not present.
 ## Easy way
 1. Select the cell you want to add a link with (Double click & CTRL + A)
 2. Click the **Insert link** button in the top ribbon (CTRL + K) ![Workbook Select Menu](WorkBookSelectMenu.png)
